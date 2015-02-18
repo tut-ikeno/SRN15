@@ -1,0 +1,28 @@
+!SESSION 2015-02-18 18:48:24.488 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/ikeno/git/SRN15 -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-02-18 18:48:29.562
+!MESSAGE System property http.proxyHost is set to proxy.sys.cs.tut.ac.jp but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2015-02-18 18:48:29.573
+!MESSAGE System property http.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2015-02-18 18:48:29.587
+!MESSAGE System property http.proxyHost is set to proxy.sys.cs.tut.ac.jp but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2015-02-18 18:48:29.590
+!MESSAGE System property http.proxyPort is set to 3128 but should not be set.
+
+!ENTRY org.eclipse.ui 4 4 2015-02-18 18:49:03.359
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2015-02-18 18:49:03.427
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2015-02-18 18:49:03.430
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
